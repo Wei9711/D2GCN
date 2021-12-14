@@ -26,6 +26,7 @@ Introduction:
 3 PGCN: Get negative samples based on personalized page rank
               Reference:
               [Understanding Negative Sampling in Graph Representation Learning](https://arxiv.org/pdf/2005.09863.pdf)
+              
 4 MCGCN : Get negative samples based on Monte Carko chains
               Reference:
               [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf)
