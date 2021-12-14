@@ -14,6 +14,7 @@ This code can be run directly on Google Colab using CPU
 ————————————————————
 
 Introduction:
+
 1 GCN  : Base model
 
 2 D2GCN(DPP-DFS-GCN): Our model.  Get negative samples based on DPP and DFS
@@ -28,7 +29,9 @@ Introduction:
 4 MCGCN : Get negative samples based on Monte Carko chains
               Reference:
               [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://arxiv.org/pdf/1806.01973.pdf)
+              
 
 ————————————————————
+
 Notice:
 Since DPP sampling uses numpy data types, the difference in time between using GPU and CPU is not significant
