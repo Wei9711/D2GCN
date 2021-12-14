@@ -1,13 +1,18 @@
 # D2GCN
 ————————————————————
+
 This is a PyTorch implementation of:
 
 Learning from the Dark: Boosting Graph Convolutional Neural Networks wit Diverse Negative Samples.
 
 Accepted by AAAI-2022
+
 ————————————————————
+
 This code can be run directly on Google Colab using CPU
+
 ————————————————————
+
 Introduction:
 1 GCN  : Base model
 
